@@ -1,7 +1,3 @@
-#
-# weechat.conf -- weechat v0.3.1-dev
-#
-
 [color]
 weechat.color.bar_more = lightmagenta
 weechat.color.chat = red
